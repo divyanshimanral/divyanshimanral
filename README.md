@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi folks👋, I'm Divyanshi Manral</h1>
+<h4 align="center">A passionate Web developer from India</h4>
 
-<!--
-**divyanshimanral/divyanshimanral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **MongoDB, Express, React, Node**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/divyanshimanral](https://github.com/divyanshimanral)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **React, JavaScript 🐛, Frontend**
+
+- 📫 How to reach me **<a href="https://www.instagram.com/im_d_ivy/">Instagram</a> / <a href="https://www.linkedin.com/in/divyanshi-manral/">LinkedIn</a> <br/>**
+
+- ⚡ Fun fact **I do anime sketching sometime 🐣**
+
