@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, JavaScript 🐛, Frontend**
 
-- 📫 How to reach me **<a href="https://www.instagram.com/im_d_ivy/">Instagram</a> / <a href="https://www.linkedin.com/in/divyanshi-manral/">LinkedIn</a> <br/>**
+- 📫 How to reach me on **<a href="https://www.instagram.com/im_d_ivy/">Instagram</a> / <a href="https://www.linkedin.com/in/divyanshi-manral/">LinkedIn</a> <br/>**
 
 - ⚡ Fun fact **I do anime sketching sometime 🐣**
 
