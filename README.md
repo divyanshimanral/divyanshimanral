@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MongoDB, Express, React, Node**
 
-- 👨‍💻 All of my projects are available at [https://github.com/divyanshimanral](https://github.com/divyanshimanral)
+- 👨‍💻 All of my projects are available in <a href="https://github.com/divyanshimanral">Github</a>
 
 - 💬 Ask me about **React, JavaScript 🐛, Frontend**
 
