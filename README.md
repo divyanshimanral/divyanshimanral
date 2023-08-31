@@ -1,14 +1,13 @@
-<img href="https://twitter.com/divya_m_03/header_photo" width="100%"/>
+<img src="https://pbs.twimg.com/profile_banners/1688899008234930177/1693508822/1500x500" alt="Divyanshi Manral Banner" width="100%" style="border-radius: 10px;"/>
 <h1 align="center">Hi folks👋, I'm Divyanshi Manral</h1>
 <h4 align="center">A passionate Web developer from India</h4>
 
 - 🌱 I’m currently learning **MongoDB, Express, React, Node**
 
-- 👨‍💻 All of my projects are available in <a href="https://github.com/divyanshimanral">Github</a>
+- 👨‍💻 All of my projects are available on <a href="https://github.com/divyanshimanral">Github</a>
 
-- 💬 Ask me about **React, JavaScript 🐛, Frontend**
+- 💬 Ask me about React, JavaScript 🐛, Frontend
 
-- 📫 How to reach me on **<a href="https://www.instagram.com/im_d_ivy/">Instagram</a> / <a href="https://www.linkedin.com/in/divyanshi-manral/">LinkedIn</a> <br/>**
+- 📫 How to reach me on <a href="https://www.instagram.com/im_d_ivy/">Instagram</a> / <a href="https://www.linkedin.com/in/divyanshi-manral/">LinkedIn</a> <br/>
 
-- ⚡ Fun fact **I do anime sketching sometime 🐣**
-
+- ⚡ Fun fact: I do anime sketching sometimes 🐣
