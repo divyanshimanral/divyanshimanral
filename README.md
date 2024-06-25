@@ -12,3 +12,5 @@
 - 📫 How to reach me on <a href="https://www.instagram.com/im_d_ivy/">Instagram</a> / <a href="https://www.linkedin.com/in/divyanshi-manral/">LinkedIn</a> <br/>
 
 - ⚡ Fun fact: I do anime sketching sometimes 🐣
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshimanral&show_icons=true&locale=en&layout=compact" alt="divyanshimanral" /></p>
